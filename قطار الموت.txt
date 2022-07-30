@@ -1,0 +1,19 @@
+public class Main
+{
+	public static void main(String[] args) {
+    
+    int person=154;
+    
+    int height=160; 
+    
+    if(person>height){
+     
+    System.out.println("You can play");
+}
+    else if(person<height){
+    
+    System.out.println("You cann't play");
+	
+}
+}
+}

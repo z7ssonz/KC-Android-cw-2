@@ -5,11 +5,11 @@ public class Main
 		
 		int age = 17;
 		
-		String Name = "Hussain";
+
 		
-		System.out.println("My name is " + name );   
+		System.out.println("Hi " + "My name is " + name + " and " + " My age is " + age);   
 	
-	    System.out.println("My age is " + age);
+	   
 	   
 	}
 }
